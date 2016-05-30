@@ -18,7 +18,7 @@ So, just edit `_config.yml`, find `highlighter: pygments`, change it to `highlig
 
 ## Translation
 
- - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/Huxpro/Huxpro.github.io/blob/master/README.zh.md)
+ - ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) **Chinese (Simplified)**: 感谢 [@BrucZhaoR](https://github.com/BruceZhaoR) 的 [中文翻译 &rarr;](https://github.com/linpelvis/linpelvis.github.io/blob/master/README.zh.md)
 
 
 ## Document
