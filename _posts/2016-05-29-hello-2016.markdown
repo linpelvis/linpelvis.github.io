@@ -23,7 +23,7 @@ Elvis 的 Blog 就这么开通了。
 
 
 
-Blog的初衷是总结日常工作和生活的点滴，希望自己能坚持下去。
+Blog的初衷是总结日常生活和工作的点滴，希望自己能坚持下去。
 
 
 
@@ -45,12 +45,14 @@ Blog的初衷是总结日常工作和生活的点滴，希望自己能坚持下�
 
 
 
-## 开源参考
+## 参考
 
 
 [davidtmiller](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
 
 [Huxpro](https://github.com/Huxpro/huxpro.github.io)
+
+[linpelvis](https://github.com/linpelvis/linpelvis.github.io)
 
 
 -- Elvis 2016.05
