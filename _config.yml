@@ -6,7 +6,7 @@ email: linpelvis@gmail.com
 description: "Do Your Best | 这里是Elvis的个人博客。"
 #keyword: "Elvis, Elvis的博客"
 url: "http://linpelvis.github.io"              # your host, for absolute URL
-baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
